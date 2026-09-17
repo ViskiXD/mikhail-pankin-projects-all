@@ -1,0 +1,4 @@
+{
+  "name": "Mikhail Pankin Projects (Space Echo RNBO)",
+  "install": "bash .cursor/build-spaceecho.sh"
+}
